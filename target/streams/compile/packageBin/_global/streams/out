@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/manishkumartyagi/Downloads/Categorize/target/scala-2.13/spark-essentials_2.13-0.2.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ExportAggregator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/manishkumartyagi/Downloads/Categorize/target/scala-2.13/classes/ExportAggregator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ExportAggregator$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/manishkumartyagi/Downloads/Categorize/target/scala-2.13/classes/ExportAggregator$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	2018-2010_export.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/manishkumartyagi/Downloads/Categorize/target/scala-2.13/classes/2018-2010_export.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/manishkumartyagi/Downloads/Categorize/target/scala-2.13/classes/MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/manishkumartyagi/Downloads/Categorize/target/scala-2.13/classes/MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ExportAggregator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/manishkumartyagi/Downloads/Categorize/target/scala-2.13/classes/ExportAggregator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
