@@ -56,7 +56,8 @@ The `main` method accepts command-line arguments for `year` and `commodity`, loa
 
 ## Sample Output
 
-<img width="265" alt="image" src="https://github.com/user-attachments/assets/72cc2179-f155-4b68-b223-0e5485e2bedd">
+<img width="265" alt="image" src="<img width="287" alt="image" src="https://github.com/user-attachments/assets/76544bd2-d8b8-4a79-b5e4-5a9ddaef46c4">
+">
 
 ## Testing
 
